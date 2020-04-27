@@ -1,0 +1,10 @@
+.git/
+.vscode/
+__pycache__/
+build/
+*.egg-info/
+*.yml
+*.env
+*.txt
+*.json
+environment.py
