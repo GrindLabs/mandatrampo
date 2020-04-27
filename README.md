@@ -1,2 +1,2 @@
 # mandatrampo
-Auto-generated website with job opportunities crawler.
+Auto-generated web application for job opportunities.
