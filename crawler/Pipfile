@@ -10,7 +10,7 @@ autopep8 = "*"
 scrapy = "*"
 firebase-admin = "*"
 python-slugify = "*"
-rsa = "==3.4.2"
+rsa = "==4.7"
 
 [requires]
 python_version = "3.6"
